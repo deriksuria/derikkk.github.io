@@ -2,7 +2,6 @@ a {
     color: red;
 }
 
-#table {
-    border-color: black;
-    border-radius: 5px;
+a:hover {
+    color: powderblue;
 }
