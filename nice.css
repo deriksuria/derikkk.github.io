@@ -15,3 +15,12 @@ a:hover {
 #roast {
     color: lightseagreen;
 }
+
+#title {
+    background-color: magenta;
+}
+
+#water {
+    background-color: blue;
+    color: white;
+}
