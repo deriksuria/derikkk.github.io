@@ -5,3 +5,8 @@ a {
 a:hover {
     color: powderblue;
 }
+
+.rating {
+    border-radius: 5px;
+    border-color: black;
+}
