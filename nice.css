@@ -6,7 +6,9 @@ a:hover {
     color: powderblue;
 }
 
-.rating {
-    border-radius: 5px;
-    border-color: black;
+.ranking {
+    height: 300px;
+    width: 200px;
+    background-color: black;
+    color: white;
 }
