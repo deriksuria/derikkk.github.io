@@ -43,3 +43,6 @@ a:hover {
       background-color: lightblue;
     }
   }
+  a {
+    color: hotpink;
+  }
